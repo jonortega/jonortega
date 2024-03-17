@@ -3,7 +3,6 @@
 ## About Me
 - 🎓 I'm in my final year of Computer Engineering.
 - 📫 How to reach me: jon.ortega.g@gmail.com
-- ⚡ Fun fact: I love playing the guitar in my free time.
 
 ## Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonortega&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
