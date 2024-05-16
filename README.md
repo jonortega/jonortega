@@ -7,9 +7,6 @@
 ## Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonortega&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub Stats
-![Jon Ortega's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonortega&show_icons=true&theme=radical)
-
 ## Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-JonOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonortega/)](https://www.linkedin.com/in/jon-ortega-goikoetxea-bab2902a8/)
 [![GitHub Badge](https://img.shields.io/badge/-jonortega-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/jonortega/)](https://github.com/jonortega/)
